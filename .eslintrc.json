@@ -20,6 +20,8 @@
   },
   "ignorePatterns": [
     "dist/",
-    "build/"
+    "build/",
+    "assets/js/bootstrapjs",
+    "assets/js/jquery"
   ]
 }
